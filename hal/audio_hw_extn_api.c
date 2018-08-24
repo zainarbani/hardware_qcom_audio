@@ -34,6 +34,7 @@
 #include <inttypes.h>
 #include <errno.h>
 #include <log/log.h>
+#include <pthread.h>
 #include <cutils/atomic.h>
 
 #include <hardware/audio.h>
